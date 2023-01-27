@@ -1,0 +1,26 @@
+﻿  main.cpp
+D:\studia\studia\semestr 5\grafa\3D-Engine\Ksiezyc.h(62,42): warning C4244: "argument": konwersja z "double" do "GLint", możliwa utrata danych
+D:\studia\studia\semestr 5\grafa\3D-Engine\Ksiezyc.h(62,36): warning C4244: "argument": konwersja z "double" do "GLint", możliwa utrata danych
+D:\studia\studia\semestr 5\grafa\3D-Engine\Ksiezyc.h(72,47): warning C4244: "argument": konwersja z "double" do "GLint", możliwa utrata danych
+D:\studia\studia\semestr 5\grafa\3D-Engine\Ksiezyc.h(72,40): warning C4244: "argument": konwersja z "double" do "GLint", możliwa utrata danych
+D:\studia\studia\semestr 5\grafa\3D-Engine\Planeta.h(121,1): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+D:\studia\studia\semestr 5\grafa\3D-Engine\Planeta.h(136,36): warning C4244: "argument": konwersja z "double" do "GLint", możliwa utrata danych
+D:\studia\studia\semestr 5\grafa\3D-Engine\Planeta.h(136,30): warning C4244: "argument": konwersja z "double" do "GLint", możliwa utrata danych
+D:\studia\studia\semestr 5\grafa\3D-Engine\Planeta.h(140,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\studia\studia\semestr 5\grafa\3D-Engine\Planeta.h(167,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\studia\studia\semestr 5\grafa\3D-Engine\main.cpp(106,33): warning C4305: "argument": obcięcie z "double" do "float"
+D:\studia\studia\semestr 5\grafa\3D-Engine\main.cpp(107,34): warning C4305: "argument": obcięcie z "double" do "float"
+D:\studia\studia\semestr 5\grafa\3D-Engine\main.cpp(108,34): warning C4305: "argument": obcięcie z "double" do "float"
+D:\studia\studia\semestr 5\grafa\3D-Engine\main.cpp(109,32): warning C4305: "argument": obcięcie z "double" do "float"
+D:\studia\studia\semestr 5\grafa\3D-Engine\main.cpp(110,34): warning C4305: "argument": obcięcie z "double" do "float"
+D:\studia\studia\semestr 5\grafa\3D-Engine\main.cpp(111,34): warning C4305: "argument": obcięcie z "double" do "float"
+D:\studia\studia\semestr 5\grafa\3D-Engine\main.cpp(123,55): warning C4305: "argument": obcięcie z "double" do "float"
+D:\studia\studia\semestr 5\grafa\3D-Engine\main.cpp(126,54): warning C4305: "argument": obcięcie z "double" do "float"
+D:\studia\studia\semestr 5\grafa\3D-Engine\main.cpp(129,53): warning C4305: "argument": obcięcie z "double" do "float"
+D:\studia\studia\semestr 5\grafa\3D-Engine\main.cpp(132,56): warning C4305: "argument": obcięcie z "double" do "float"
+D:\studia\studia\semestr 5\grafa\3D-Engine\main.cpp(157,19): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\studia\studia\semestr 5\grafa\3D-Engine\main.cpp(159,61): warning C4244: "argument": konwersja z "double" do "GLint", możliwa utrata danych
+D:\studia\studia\semestr 5\grafa\3D-Engine\main.cpp(159,54): warning C4244: "argument": konwersja z "double" do "GLint", możliwa utrata danych
+D:\studia\studia\semestr 5\grafa\3D-Engine\main.cpp(191,19): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\studia\studia\semestr 5\grafa\3D-Engine\main.cpp(257,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  SolarSystem.vcxproj -> D:\studia\studia\semestr 5\grafa\3D-Engine\Debug\SolarSystem.exe
